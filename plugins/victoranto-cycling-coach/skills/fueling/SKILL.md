@@ -5,7 +5,7 @@ description: Builds a fueling and hydration plan for a specific long ride, sport
 
 # Fueling plan
 
-Read `references/coaching-principles.md`, `references/athlete-profile.md` and `references/fueling-guidelines.md`. Scope is fueling for training and racing only; this command does not do daily diets or weight loss.
+Read `references/coaching-principles.md`, `references/athlete-profile.md` and `references/fueling-guidelines.md`. Scope is fueling for training and racing. This command does not create daily diets or weight-loss plans, but if the athlete already has a nutrition setup (Project instructions, memory, a dietitian's plan), build the fueling plan so it fits with it.
 
 ## 1. Inputs
 

@@ -4,7 +4,7 @@ A personal cycling coach for [Claude](https://claude.ai), packaged as an open-so
 
 It speaks your language, uses your units, plans around your real week and your races, keeps the bike first while fitting in the gym, swimming or running, and uses your Strava and Intervals.icu data when they are connected.
 
-> Not a doctor, not a dietitian. This plugin coaches training and on-the-bike fueling. It does not do diets or weight-loss plans, and anything medical belongs with a professional.
+> Not a doctor, not a dietitian. This plugin coaches training and on-the-bike fueling. It does not create diets or weight-loss plans, but if you already have a nutrition setup (in your Claude Project or with a dietitian), it works around it instead of against it. Anything medical belongs with a professional.
 
 ## Commands
 

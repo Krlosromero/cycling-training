@@ -22,7 +22,8 @@ Read `references/coaching-principles.md`, `references/athlete-profile.md`, `refe
 5. **Durability:** on the long rides, power and HR in the final hour vs the early hours, and how that changed over the period. This matters most for ultra-distance goals.
 6. **Other activities:** how much gym, swimming, running, hiking, and how they interacted with the bike sessions.
 7. **Road to the A race:** weeks left; whether base and specific work are where they should be (for example long enough rides, enough gravel or climbing, fueling rehearsed); what is missing.
-8. **Recovery:** sleep, resting HR, HRV trends if available; deloads done vs needed.
+8. **Yearly distance goal** (only if the profile has one): distance so far this year (counting only the riding types the athlete chose, never double counting), % of the goal, distance left, weeks left, km per week needed vs the recent weekly average, and whether they are ahead, on track or behind. If behind, say what weekly increase would close the gap and whether that fits their recovery and plan.
+9. **Recovery:** sleep, resting HR, HRV trends if available; deloads done vs needed.
 
 ## 3. Output
 

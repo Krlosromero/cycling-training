@@ -53,6 +53,8 @@ Then ask how many races are planned and, for each one:
 6. Priority A/B/C (offer to propose one if unsure)
 7. Optional: link or GPX of the route
 
+Then ask, as optional: do they want a yearly distance goal (for example 5,000 km this year)? If yes, ask which riding counts (road, gravel, indoor/virtual) and, if Strava is connected, show the distance done so far this year. Make clear it is for motivation and will not push junk kilometres into the plan.
+
 If they have no races yet, plan by goals (raise FTP, endurance) until they choose one. Propose priorities if theirs look unbalanced (for example three A races) and explain why in one sentence.
 
 **Block 4 - Availability and equipment**

@@ -49,6 +49,8 @@ If the bike had no power meter, use HR, RPE, speed and elevation.
 
 **4. Load and recovery:** acute vs chronic load and trend (orientation, not alarm); weekly volume and elevation vs previous weeks (volume and intensity not both rising); sleep, resting HR, HRV if available; consecutive loading days and when a deload is due.
 
+**4b. Yearly distance goal** (only if the profile has one): one line with distance so far this year, % done, km per week needed for the rest of the year vs the recent average, and ahead / on track / behind.
+
 **5. Performance** (when data allows): best 5, 20, 60-min efforts vs FTP; W/kg; trends. If efforts consistently beat or miss FTP, flag a re-evaluation.
 
 **6. Fueling:** what was eaten and drunk; estimated carbohydrate g/h and fluids (state it is an estimate); enough, short or excessive for that duration and intensity; whether it may explain late power fade, HR drift or high RPE.
@@ -64,6 +66,7 @@ When the athlete asks for "summary", "short" or "brief", do all the same work bu
 1. Day table (sessions, duration, load, RPE, planned) with the main bike session's distance, elevation, avg/NP, IF and avg HR.
 2. Load and recovery in one line.
 3. Fueling in one line (intake, estimated g/h, enough or not).
+   If the profile has a yearly distance goal, add one line with progress (done, %, ahead / on track / behind).
 4. Verdict in two lines.
 5. Next session in one line.
 6. `Warning:` line only if there is one (FTP re-test, deload, high decoupling, RPE far above the watts, sources disagree).

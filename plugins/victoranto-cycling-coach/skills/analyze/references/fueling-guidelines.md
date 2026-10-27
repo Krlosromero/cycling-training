@@ -1,6 +1,6 @@
 # Fueling for training and racing
 
-Scope: what to eat and drink before, during and right after rides and races. Daily diets, calorie deficits and weight loss are outside this plugin. These are guidelines for healthy adults, not medical advice; athletes with medical conditions should check with a professional.
+Scope: what to eat and drink before, during and right after rides and races. Daily diets, calorie deficits and weight loss are not created by this plugin; if the athlete already has a nutrition or weight-loss setup, fit fueling around it (see `coaching-principles.md`). These are guidelines for healthy adults, not medical advice; athletes with medical conditions should check with a professional.
 
 Main source: the UCI Sports Nutrition Project position statement (Burke et al., 2026). Ultra-distance notes: Nikolaidis et al. (2018). Full references in `evidence.md`.
 

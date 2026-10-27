@@ -36,6 +36,9 @@ Updated: YYYY-MM-DD
 - Max HR / threshold HR: … (or unknown)
 - Zones: Coggan default | own zones in Intervals/Strava
 
+**Yearly distance goal** (optional)
+- … km (or mi) in YYYY · counts: road, gravel, indoor (as the athlete chose) · or "none"
+
 **Races** (A = season goal, full taper · B = important, short taper · C = training race)
 | Priority | Name | Date | Distance | Elevation | Surface | Format / cut-off | Goal |
 |---|---|---|---|---|---|---|---|

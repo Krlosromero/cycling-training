@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2 - 2026-10-27
+
+- Respects an existing nutrition or weight-loss setup (Project, memory or a dietitian) instead of declining; training and fueling advice stays compatible with it.
+- Optional yearly distance goal: asked in `/setup`, progress shown in `/review` and `/analyze`, never at the cost of recovery.
+
 ## 0.1.1 - 2026-10-27
 
 - Added a privacy policy (`PRIVACY.md`), linked from the READMEs and `plugin.json`.
