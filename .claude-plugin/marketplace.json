@@ -1,0 +1,17 @@
+{
+  "name": "victoranto",
+  "description": "Victor Gonzalez's open-source Claude plugins.",
+  "owner": {
+    "name": "Victor Gonzalez",
+    "url": "https://victoranto.com/"
+  },
+  "plugins": [
+    {
+      "name": "victoranto-cycling-coach",
+      "source": "./plugins/victoranto-cycling-coach",
+      "description": "A personal cycling coach for road, gravel and ultra-distance riders: profile and races, weekly plans, today's session, ride analysis, race fueling and monthly reviews.",
+      "category": "sports",
+      "tags": ["cycling", "training", "coach", "gravel", "ultra"]
+    }
+  ]
+}
