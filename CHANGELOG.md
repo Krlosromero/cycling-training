@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 - 2026-10-27
+
+- Added a privacy policy (`PRIVACY.md`), linked from the READMEs and `plugin.json`.
+
 ## 0.1.0 - 2026-10-27
 
 First public version.

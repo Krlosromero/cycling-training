@@ -71,11 +71,15 @@ Writing to your calendar is always previewed first and only done after you say y
 
 Your data stays in your own Claude account. Nothing personal is stored in this repository.
 
+## Privacy
+
+The plugin has no servers and sends nothing to the author or to third parties. Read the full [Privacy policy](PRIVACY.md).
+
 ## Repository layout
 
 ```
 .claude-plugin/marketplace.json     marketplace definition
-plugins/victoranto-cycling-coach/           the plugin
+plugins/victoranto-cycling-coach/   the plugin
   .claude-plugin/plugin.json
   skills/<command>/SKILL.md         one folder per command
   skills/<command>/references/      copies of shared/ (generated)
